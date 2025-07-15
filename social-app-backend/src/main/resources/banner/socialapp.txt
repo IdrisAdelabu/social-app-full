@@ -1,0 +1,11 @@
+${Ansi.DEFAULT}
+${Ansi.GREEN}              ,---.               ,--.        ,--.   ,---.                 
+${Ansi.GREEN}              '   .-'  ,---.  ,---.`--' ,--,--.|  |  /  O  \  ,---.  ,---.  
+${Ansi.GREEN}              `.  `-. | .-. || .--',--.' ,-.  ||  | |  .-.  || .-. || .-. | 
+${Ansi.GREEN}              .-'    |' '-' '\ `--.|  |\ '-'  ||  | |  | |  || '-' '| '-' ' 
+${Ansi.GREEN}              `-----'  `---'  `---'`--' `--`--'`--' `--' `--'|  |-' |  |-'  
+${Ansi.GREEN}                                                          `--'   `--'  
+${Ansi.GREEN}
+${Ansi.GREEN}                  Social App 2024 - Connecting Like Minds...
+${Ansi.RED}                               :: Spring Boot${spring-boot.formatted-version} :: 
+${Ansi.DEFAULT}
