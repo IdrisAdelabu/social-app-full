@@ -1,0 +1,24 @@
+# JWT Configuration
+jwt:
+  secret:
+  expiration:
+  issuer:
+  audience:
+  prefix:
+  excluded.urls:
+
+    
+# Client Configuration  
+client:
+  url: 
+  email:
+    verify: 
+      param: 
+      expiration: 
+    reset: 
+      param: 
+      expiration: 
+
+# H2 Server Configuration 
+h2.server:
+  params: 
